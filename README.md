@@ -8,7 +8,7 @@ Welcome to the Rock, Paper, Scissors game repository! This is a simple web-based
 
 1. Clone the repository.
 
-2. Open `10-rock-paper-scissor.html` in your web browser.
+2. Open `index.html` in your web browser.
 
 3. Click on Rock, Paper, or Scissors to make your move.
 
@@ -19,7 +19,7 @@ Welcome to the Rock, Paper, Scissors game repository! This is a simple web-based
 
 ## Project Structure
 
-- `10-rock-paper-scissor.html`: Main HTML file.
+- `index.html`: Main HTML file.
 - `10-rock-paper-scissor.css`: Stylesheet.
 - `10-rock-paper-scissor.js`: JavaScript game logic.
 
